@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuosheng Liu/ PhD Candidate in Food Microbiology at UC Davis "
+title                    : "Zhuosheng Liu/ Food Microbiology PhD Candidate at UC Davis "
 title_separator          : "-"
 name                     : &name "Zhuosheng Liu"
 description              : &description "A data-driven microbiologist with passion in ML"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/zhuosheng-liu/"
+  linkedin         : "https://www.linkedin.com/in/zhuosheng-liu/"
   orcid            : "https://orcid.org/0000-0002-4241-9526"
   pinterest        :
   soundcloud       :
