@@ -2,7 +2,7 @@
 title: "Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Where my research journey begined'
 date: 2021-03-01
 venue: 'Food Control'
 paperurl: ''
