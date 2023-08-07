@@ -21,4 +21,4 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 5. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. Food Control (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
 
 ## News:
-1. I am currently construct website for Spring 2024 FST 104L Food Microbiology taught by Dr. Luxin Wang. The progress of website construct can be tracked [here](https://hackmd.io/@g4P5SSbiSriJQ-hJMcd9fg/Hkpb1-EO3). Any valuable advice will be appriciated!
+1. I am currently constructing website for Spring 2024 FST 104L Food Microbiology taught by Dr. Luxin Wang. The progress of website construct can be tracked [here](https://hackmd.io/@g4P5SSbiSriJQ-hJMcd9fg/Hkpb1-EO3). Any valuable advice will be appriciated!
