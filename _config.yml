@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuosheng Liu/ Site Title"
+title                    : "Zhuosheng Liu/ PhD Candidate in Food Microbiology at UC Davis "
 title_separator          : "-"
 name                     : &name "Zhuosheng Liu"
 description              : &description "A data-driven microbiologist with passion in ML"
