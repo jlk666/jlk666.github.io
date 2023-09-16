@@ -22,3 +22,5 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 
 ## News:
 **July, 2023** I am currently constructing website for Spring 2024 FST 104L Food Microbiology taught by Dr. Luxin Wang. The progress of website construct can be tracked [here](https://hackmd.io/@g4P5SSbiSriJQ-hJMcd9fg/Hkpb1-EO3). Any valuable advice will be appriciated!
+
+**September, 2023** I will be a tutor in ECS 122A algorithm analysis in this fall quarter.
