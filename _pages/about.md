@@ -14,15 +14,17 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 
 ## Publications:
 
-1. **Liu, Zhuosheng**, Zhou, Y., Wang, H., and Wang, L. 2022. Advanced understanding about fitness and survival mechanisms of *Vibrio parahaemolyticus* through pre- to post-omics era. *Food Research International* (IF 7.425) (Ready to submit).
-2. **Liu, Zhuosheng**, Liao, C., Wang, L. 2022. Fitness and transcriptomic analysis of *Vibrio parahaemolyticus* at different oyster harvesting temperatures. Preprint available at [Preprint](https://doi.org/10.1101/2023.05.03.539256) submitted to *Microbiology Spectrum* (Under review).
+1. **Liu, Zhuosheng**, Zhou, Y., Wang, H., and Wang, L. 2022. Advanced understanding about fitness and survival mechanisms of *Vibrio parahaemolyticus* through pre- to post-omics era. *International of Food MIcrobiology* (IF 7.425) (Under review).
+2. **Liu, Zhuosheng**, Liao, C., Wang, L. 2022. Fitness and transcriptomic analysis of *Vibrio parahaemolyticus* at different oyster harvesting temperatures. Preprint available at [here](https://journals.asm.org/doi/10.1128/spectrum.02783-23) submitted to *Microbiology Spectrum* (Under review).
 3. **Liu, Zhuosheng**, Sheng, L., Canakapalli, S., Phillips, S., and Wang, L. 2022. Microbial risk assessment of the preparation and storage of dried fruit. *Lwt Food Science and Technology* (IF 6.056). [Paper](https://doi.org/10.1016/j.lwt.2022.113734)
 4. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
 5. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
+6. Li, Z., **Liu, Zhuosheng**, Zhang, J., Parameter-Efficient Fine-Tuning for Vision-Language Models submitted to CVPR 2024.
+
 
 ## News:
 **July, 2023** I am currently constructing website for Spring 2024 FST 104L Food Microbiology taught by Dr. Luxin Wang. The progress of website construct can be tracked [here](https://hackmd.io/@g4P5SSbiSriJQ-hJMcd9fg/Hkpb1-EO3). Any valuable advice will be appriciated!
 
 **September, 2023** I serve as the graduate tutor in ECS 122A algorithm analysis in fall quarter, 2023.
 
-**October, 2023** My most recent research was accepted by *Microbiology Spectrum*, I will post the code after it is available online. 
+**October, 2023** My most recent research was accepted by *Microbiology Spectrum*, I will post the code after it is available online. [Full paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
