@@ -20,7 +20,7 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 4. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
 5. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
 6. Li, Z., **Liu, Zhuosheng**, Zhang, J., Parameter-Efficient Fine-Tuning for Vision-Language Models submitted to CVPR 2024.
-7.  **Liu, Zhuosheng**, Li, Z., Zhang, J., and Wang, L. Pathogenicity prediction of Vibrio parahaemolyticus by using pangenome data with high performance machine learning algorithms (In preparation).
+7.  **Liu, Zhuosheng**, Li, Z., Zhang, J., and Wang, L. Pathogenicity prediction of *Vibrio parahaemolyticus* by using pangenome data with high performance machine learning algorithms (In preparation).
 
 ## News:
 **October, 2023** My most recent research was accepted by *Microbiology Spectrum*, I will post the code after it is available online. [Full paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
