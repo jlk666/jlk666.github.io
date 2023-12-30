@@ -28,6 +28,7 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 **October, 2023** My most recent research was accepted by *Microbiology Spectrum*, I will post the code after it is available online. [Full paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
 
 **September, 2023** I serve as the graduate tutor in ECS 122A algorithm analysis in fall quarter, 2023.
+
 **July, 2023** I am currently constructing website for Spring 2024 FST 104L Food Microbiology taught by Dr. Luxin Wang. The progress of website construct can be tracked [here](https://hackmd.io/@g4P5SSbiSriJQ-hJMcd9fg/Hkpb1-EO3). Any valuable advice will be appriciated!
 
 
