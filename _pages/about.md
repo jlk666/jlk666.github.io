@@ -25,7 +25,7 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 
 
 ## News:
-**October, 2023** My most review research was accepted by *International Journal of Food Microbiology*! Many thanks to my collaborators to make this happened finally! [Full paper](https://www.sciencedirect.com/science/article/pii/S0168160524001351#:~:text=Culture%2Dbased%20studies%20showed%20the,the%20design%20of%20control%20strategies.)
+**March, 2024** My most review research was accepted by *International Journal of Food Microbiology*! Many thanks to my collaborators to make this happened finally! [Full paper](https://www.sciencedirect.com/science/article/pii/S0168160524001351#:~:text=Culture%2Dbased%20studies%20showed%20the,the%20design%20of%20control%20strategies.)
 
 **October, 2023** My most recent research was accepted by *Microbiology Spectrum*, I will post the code after it is available online. [Full paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
 
