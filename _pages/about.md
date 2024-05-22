@@ -15,12 +15,13 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 ## Publications:
 
 1. Li, Z., **Liu, Zhuosheng**, Zhang, J. 2024. Parameter-Efficient Fine-Tuning for Vision-Language Models submitted to CVPR 2024.
-2. **Liu, Zhuosheng**, Li, Z., Zhang, J., and Wang, L. 2024. Pathogenicity prediction of *Vibrio parahaemolyticus* by using pangenome data with high performance machine learning algorithms (In preparation).
-3. **Liu, Zhuosheng**, Zhou, Y., Wang, H., and Wang, L. 2023. Advanced understanding about fitness and survival mechanisms of *Vibrio parahaemolyticus* through pre- to post-omics era. *International Journal of Food Microbiology* (IF 5.0) [Paper](https://www.sciencedirect.com/science/article/pii/S0168160524001351#:~:text=Culture%2Dbased%20studies%20showed%20the,the%20design%20of%20control%20strategies.).
-4. **Liu, Zhuosheng**, Liao, C., Wang, L. 2022. Fitness and transcriptomic analysis of *Vibrio parahaemolyticus* at different oyster harvesting temperatures. [Paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
-5. **Liu, Zhuosheng**, Sheng, L., Canakapalli, S., Phillips, S., and Wang, L. 2022. Microbial risk assessment of the preparation and storage of dried fruit. *Lwt Food Science and Technology* (IF 6.056). [Paper](https://doi.org/10.1016/j.lwt.2022.113734)
-6. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
-7. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
+2. **Liu, Zhuosheng**, Li, Z., Li, (A) J., Zhang, J., and German, B. 2024. Integrating Artificial Intelligence in Human-Centered Food Systems: Opportunities and Challenges. Manuscript in preparation. 
+3. **Liu, Zhuosheng**, Li, Z., Zhang, J., and Wang, L. 2024. Pathogenicity prediction of *Vibrio parahaemolyticus* by using pangenome data with high performance machine learning algorithms (In preparation).
+4. **Liu, Zhuosheng**, Zhou, Y., Wang, H., and Wang, L. 2023. Advanced understanding about fitness and survival mechanisms of *Vibrio parahaemolyticus* through pre- to post-omics era. *International Journal of Food Microbiology* (IF 5.0) [Paper](https://www.sciencedirect.com/science/article/pii/S0168160524001351#:~:text=Culture%2Dbased%20studies%20showed%20the,the%20design%20of%20control%20strategies.).
+5. **Liu, Zhuosheng**, Liao, C., Wang, L. 2022. Fitness and transcriptomic analysis of *Vibrio parahaemolyticus* at different oyster harvesting temperatures. [Paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
+6. **Liu, Zhuosheng**, Sheng, L., Canakapalli, S., Phillips, S., and Wang, L. 2022. Microbial risk assessment of the preparation and storage of dried fruit. *Lwt Food Science and Technology* (IF 6.056). [Paper](https://doi.org/10.1016/j.lwt.2022.113734)
+7. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
+8. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
 
 
 
