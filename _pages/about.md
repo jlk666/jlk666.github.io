@@ -23,10 +23,16 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 7. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
 8. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
 
-
+## In progress projects/ideas:
+1. Utilizing the Efficient Segment-Anything Model (ESAM) with visual language models for Enhanced Biomedical Image Segmentation. 
+This project aims to adapt the Efficient Segment-Anything Model (ESAM), developed by Meta AI, for biomedical image segmentation tasks. ESAM is a lightweight version of the Segment-Anything Model (SAM), designed to reduce computational load while maintaining high performance. Our focus is on leveraging ESAM's capabilities to improve segmentation accuracy and efficiency in complex biomedical imaging scenarios, including MRI and CT scans. Additionally, we plan to integrate a Vision Language Model (VLM) to further evaluate and interpret the segmented results.
+2. Integrating Artificial Intelligence in Human-Centered Food Systems: Opportunities and Challenges. 
+This project involves preparing a comprehensive review paper that explores the integration of Artificial Intelligence (AI) in human-centered food systems. The manuscript aims to identify and discuss the opportunities and challenges presented by the adoption of AI technologies in various aspects of food production, distribution, and consumption.
+3. Parameter-Efficient Fine-Tuning for Vision-Language Models: Enhancing CLIP with Mixture of Experts. 
+This project explores the application of Parameter-Efficient Fine-Tuning (PEFT) methods to Vision-Language models, specifically focusing on CLIP (Contrastive Language-Image Pre-training). The study introduces a comprehensive evaluation framework to assess the performance of PEFT methods, such as prompt tuning and adapters, across diverse backbones and datasets. The goal is to enhance CLIP's adaptability in complex, multi-modal scenarios by leveraging Mixture of Experts (MOE) and other PEFT techniques.
 
 ## News:
-**March, 2024** My most review research was accepted by *International Journal of Food Microbiology*! Many thanks to my collaborators to make this happened finally! [Full paper](https://www.sciencedirect.com/science/article/pii/S0168160524001351#:~:text=Culture%2Dbased%20studies%20showed%20the,the%20design%20of%20control%20strategies.)
+**March, 2024** My most current review research was accepted by *International Journal of Food Microbiology*! Many thanks to my collaborators to make this happened finally! [Full paper](https://www.sciencedirect.com/science/article/pii/S0168160524001351#:~:text=Culture%2Dbased%20studies%20showed%20the,the%20design%20of%20control%20strategies.)
 
 **October, 2023** My most recent research was accepted by *Microbiology Spectrum*, I will post the code after it is available online. [Full paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
 
