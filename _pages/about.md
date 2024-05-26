@@ -21,8 +21,8 @@ I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the 
 5. **Liu, Zhuosheng**, Liao, C., Wang, L. 2022. Fitness and transcriptomic analysis of *Vibrio parahaemolyticus* at different oyster harvesting temperatures. [Paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
 6. **Liu, Zhuosheng**, Sheng, L., Canakapalli, S., Phillips, S., and Wang, L. 2022. Microbial risk assessment of the preparation and storage of dried fruit. *Lwt Food Science and Technology* (IF 6.056). [Paper](https://doi.org/10.1016/j.lwt.2022.113734)
 7. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
-8. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
-
+8. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569.
+![(https://doi.org/10.1016/j.foodcont.2020.107569)](image.png)
 ## In progress projects/ideas:
 1. **Utilizing the Efficient Segment-Anything Model (ESAM) with visual language models for Enhanced Biomedical Image Segmentation** 
 This project aims to adapt the Efficient Segment-Anything Model (ESAM), developed by Meta AI, for biomedical image segmentation tasks. ESAM is a lightweight version of the Segment-Anything Model (SAM), designed to reduce computational load while maintaining high performance. Our focus is on leveraging ESAM's capabilities to improve segmentation accuracy and efficiency in complex biomedical imaging scenarios, including MRI and CT scans. Additionally, we plan to integrate a Vision Language Model (VLM) to further evaluate and interpret the segmented results.
