@@ -32,6 +32,7 @@ This project involves preparing a comprehensive review paper that explores the i
 This project explores the application of Parameter-Efficient Fine-Tuning (PEFT) methods to Vision-Language models, specifically focusing on CLIP (Contrastive Language-Image Pre-training). The study introduces a comprehensive evaluation framework to assess the performance of PEFT methods, such as prompt tuning and adapters, across diverse backbones and datasets. The goal is to enhance CLIP's adaptability in complex, multi-modal scenarios by leveraging Mixture of Experts (MOE) and other PEFT techniques.
 
 ## News:
+**May, 2024** I am thrilled to announce that I will be joining Metagenomi as an NGS Data Scientist Intern starting this summer. 
 **March, 2024** My most current review research was accepted by *International Journal of Food Microbiology*! Many thanks to my collaborators to make this happened finally! [Full paper](https://www.sciencedirect.com/science/article/pii/S0168160524001351#:~:text=Culture%2Dbased%20studies%20showed%20the,the%20design%20of%20control%20strategies.)
 
 **October, 2023** My most recent research was accepted by *Microbiology Spectrum*, I will post the code after it is available online. [Full paper](https://journals.asm.org/doi/10.1128/spectrum.02783-23)
