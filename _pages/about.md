@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Microbes & Machines: AI-Driven Food Microbiology by Zhuosheng Liu"
+title: "Bridging Bioinformatics and AI4Science: Innovations at the Intersection of Biology and Data Science"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Zhuosheng Liu**, a Ph.D. candidate in Food Science and Technology at the University of California, Davis. My specialization lies in the intersection of Food Microbiology, Microbial Genomics, and Applied Bioinformatics, where I leverage machine learning and AI tools to advance the field. Holding an Master's degree in Biotechnology from Columbia University and a Bachelor's degree from UC Davis, I have been recognized for my innovative research, including the application of high-performance machine learning models for pathogenic potential assessment. My work represents a blend of scientific rigor and cutting-edge technology, aiming to enhance food safety and public health. Alongside my research, I serve as a Graduate Teaching Assistant and am actively involved in professional associations.
+Hello! I'm **Jay** (Zhuosheng) **Liu**, a PhD candidate in Food Microbiology with a robust background in bioinformatics and applied machine learning/AI, specifically AI4Science. My work includes developing and analyzing large-scale transcriptomics data and constructing automated bioinformatics pipelines for microbial systems. Additionally, I have extensive experience in fine-tuning machine learning models for various applications, such as enhancing CRISPR nuclease activity and biomedical image segmentation. This unique blend of skills allows me to bridge the gap between biological sciences and data science, driving innovative solutions and impactful insights in both fields.
 
 ------
 
