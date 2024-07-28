@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Jay** (Zhuosheng) **Liu**, a PhD candidate in Food Microbiology and concurrent MS candidate in Computer Science with a robust background in bioinformatics and applied machine learning/AI, specifically AI4Science. My work includes developing and analyzing large-scale transcriptomics data and constructing automated bioinformatics pipelines for microbial systems. Additionally, I have extensive experience in fine-tuning machine learning models for various applications, such as enhancing CRISPR nuclease activity and biomedical image segmentation. This unique blend of skills allows me to bridge the gap between biological sciences and data science, driving innovative solutions and impactful insights in both fields.
+Hello! I'm **Jay** (Zhuosheng) **Liu**, a PhD candidate in Food Microbiology and concurrent MS candidate in Computer Science with a robust quantitative background in bioinformatics and applied machine learning/AI, specifically AI4Science. My work includes developing and analyzing large-scale amd high-dimensional omics-data to facilitate decision making to prevent microbial hazard and get informational biological insights by enabling ML/AI models be interpretable. Additionally, I have extensive experience in application of visiom/vision language models (e.g. finetuninig CLIP in bacterial image classification and biomedical image segmentation using SAM). This unique blend of skills allows me to bridge the gap between biological sciences and data science, driving innovative solutions and impactful insights in both fields.
 
 ------
 
