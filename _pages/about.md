@@ -27,7 +27,6 @@ Hello! I'm **Jay** (Zhuosheng) **Liu**, a PhD candidate in Food Microbiology and
 3. **Liu, Zhuosheng**, Sheng, L., Canakapalli, S., Phillips, S., and Wang, L. 2022. Microbial risk assessment of the preparation and storage of dried fruit. *Lwt Food Science and Technology* (IF 6.056). [Paper](https://doi.org/10.1016/j.lwt.2022.113734)
 4. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
 5. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
-6. H Wang, L Sheng, **Liu, Zhuosheng**, X Li, LJ Harris, L Wang Reduction Foodborne Pathogens and Surrogate Microorganism on Citrus Fruits after Lab-and Pilot-scale Finishing Wax Application. [Paper](https://doi.org/10.1016/j.jfp.2024.100255)
 
 
 ## In progress projects/ideas:
