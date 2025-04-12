@@ -17,7 +17,7 @@ Hello! I'm **Jay** (Zhuosheng) **Liu**, a PhD candidate in Food Microbiology and
 ### Applied AI/ML, AI/ML
 1. Li, Z., **Liu, Zhuosheng**, Zhang, J. 2024. Parameter-Efficient Fine-Tuning for Vision-Language Models submitted to CVPR.
 2. **Liu, Zhuosheng**, Li, Z., Li, (A) J., Zhang, J., and German, B. 2024. Integrating Artificial Intelligence in Human-Centered Food Systems: Opportunities and Challenges. Manuscript in preparation. 
-3. **Liu, Zhuosheng**, Li, Z., Zhang, J., and Wang, L. 2024. Pathogenicity prediction of *Vibrio parahaemolyticus* by using pangenome data with high performance machine learning algorithms (In preparation).
+3. **Liu, Zhuosheng**, Li, Z., Zhang, J., and Wang, L. 2024. Pathogenicity prediction of *Vibrio parahaemolyticus* by using pangenome data with high performance machine learning algorithms [Preprint](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=y7HS1TAAAAAJ&citation_for_view=y7HS1TAAAAAJ:qUcmZB5y_30C).
 4. Liu, X, Xiang, X, Li, Z, Wang, W, Li Z, **Liu, Zhuosheng**,, Zhang Weidi, Ye W, Zhang J 2024. A Survey of AI-Generated Video Evaluation [Paper](https://arxiv.org/abs/2410.19884).
 
 
