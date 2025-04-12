@@ -38,6 +38,10 @@ This project involves preparing a comprehensive review paper that explores the i
 This project explores the application of Parameter-Efficient Fine-Tuning (PEFT) methods to Vision-Language models, specifically focusing on CLIP (Contrastive Language-Image Pre-training). The study introduces a comprehensive evaluation framework to assess the performance of PEFT methods, such as prompt tuning and adapters, across diverse backbones and datasets. The goal is to enhance CLIP's adaptability in complex, multi-modal scenarios by leveraging Mixture of Experts (MOE) and other PEFT techniques.
 
 ## News:
+**April, 2025** I am excited to annouce that I will join Capital One AI foundation team this summer at Mclean, Virginia.
+
+**April, 2025** My second chapter of PhD thesis just went online at Bioarxiv [Full paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=y7HS1TAAAAAJ&citation_for_view=y7HS1TAAAAAJ:qUcmZB5y_30C).
+
 **September, 2024** I will be the TA for ECS 122A Algorithm Design and Analysis at UC Davis for the Fall 2024 quarter. I will keep posting my study notes on new HackMD pages [ECS122A study note hub](https://hackmd.io/6cXYBIsGTxSBZC2bxgsWNw).
 
 **July, 2024** I have been officially admitted to Computer Science MS program at UC Davis, after two more years CS major prerequisite trainings (12 courses all A/A+).
