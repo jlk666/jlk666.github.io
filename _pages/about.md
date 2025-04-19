@@ -18,7 +18,8 @@ Hello! I'm **Jay** (Zhuosheng) **Liu**, a PhD candidate in Food Microbiology and
 1. Li, Z., **Liu, Zhuosheng**, Zhang, J. 2024. Parameter-Efficient Fine-Tuning for Vision-Language Models submitted to CVPR.
 2. **Liu, Zhuosheng**, Li, Z., Li, (A) J., Zhang, J., and German, B. 2024. Integrating Artificial Intelligence in Human-Centered Food Systems: Opportunities and Challenges. Manuscript in preparation. 
 3. **Liu, Zhuosheng**, Li, Z., Zhang, J., and Wang, L. 2024. Pathogenicity prediction of *Vibrio parahaemolyticus* by using pangenome data with high performance machine learning algorithms [Preprint](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=y7HS1TAAAAAJ&citation_for_view=y7HS1TAAAAAJ:qUcmZB5y_30C).
-4. Liu, X, Xiang, X, Li, Z, Wang, W, Li Z, **Liu, Zhuosheng**,, Zhang Weidi, Ye W, Zhang J 2024. A Survey of AI-Generated Video Evaluation [Paper](https://arxiv.org/abs/2410.19884).
+4. Liu, X, Xiang, X, Li, Z, Wang, W, Li Z, **Liu, Zhuosheng**, Zhang Weidi, Ye W, Zhang J 2024. A Survey of AI-Generated Video Evaluation [Paper](https://arxiv.org/abs/2410.19884).
+5. X Xiang, X Liu, Z Li,  **Liu, Zhuosheng**, J Zhang. AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=y7HS1TAAAAAJ&sortby=pubdate&citation_for_view=y7HS1TAAAAAJ:7PzlFSSx8tAC)
 
 
 ### Food Microbiology:
@@ -27,6 +28,7 @@ Hello! I'm **Jay** (Zhuosheng) **Liu**, a PhD candidate in Food Microbiology and
 3. **Liu, Zhuosheng**, Sheng, L., Canakapalli, S., Phillips, S., and Wang, L. 2022. Microbial risk assessment of the preparation and storage of dried fruit. *Lwt Food Science and Technology* (IF 6.056). [Paper](https://doi.org/10.1016/j.lwt.2022.113734)
 4. **Liu, Zhuosheng**, Shaposhnikov M., Wang H., Zhuang S., Wang, L. 2022 Growth and survival of common spoilage and pathogenic bacteria in ground beef and plant-based meat analogues. *Food Research International* (IF 7.425). [Paper](https://doi.org/10.1016/j.foodres.2022.112408)
 5. **Liu, Zhuosheng**, Golson, K., Liao, C., Phillips, S., and Wang, L. 2021. Survival of common foodborne pathogens on dried apricots made with and without sulfur dioxide treatment. *Food Control* (IF 6.652). 121, 107569. [Paper](https://doi.org/10.1016/j.foodcont.2020.107569)
+
 
 
 ## In progress projects/ideas:
