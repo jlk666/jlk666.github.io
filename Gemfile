@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
+    gem 'observer'  # required by citeproc-ruby on Ruby 3.4+ (removed from stdlib)
+    gem 'ostruct'  # required by jekyll-twitter-plugin on Ruby 4+ (removed from stdlib)
+    gem 'benchmark'  # required by activesupport on Ruby 4+ (removed from stdlib)
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'

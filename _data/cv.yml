@@ -2,96 +2,92 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Jay (Zhuosheng) Liu
+    - name: Email
+      value: zsliu@ucdavis.edu
+    - name: Website
+      value: jlk666.github.io
+    - name: Research Focus
+      value: Exploratory Data Science | Applied ML/AI | AI4Science
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Microbiology
+      institution: University of California, Davis | California, USA
+      year: 2020 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA 3.97/4.0
+    - title: Master's in Computer Science
+      institution: University of California, Davis | California, USA
+      year: 2023 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 3.91/4.0
+        - Courses: ECS 271 Advanced ML (A+), ECS 174 Computer Vision (A), ECS 289 G Advanced Deep Learning (A+), ECS 289 L Advanced AI (A+), ECS 230 Applied Linear Algebra (A)
+    - title: Master's in Biotechnology
+      institution: Columbia University | New York, USA
+      year: 2019 - 2020
+      description:
+        - GPA 3.84/4.0
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Science PhD Intern
+      institution: Capital One
+      year: June 2025 - Aug 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Working with AI Foundation Customer Core team on Graph Representation Learning.
+        - Investigated graph embedding methods (Node2Vec, Graph Autoencoder, VGAE); 73% boost of AUC for shared-account prediction among 2M customers.
+    - title: Machine Learning Intern
+      institution: Metagenomi Inc
+      year: June 2024 - Sept 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Data preprocessing and feature engineering (PostgreSQL); helped reduce operational cost by ~40%.
+        - ML models (KNN, Random Forest, 88% cosine similarity) for indel profiles; CNN/LSTM (99.5% accuracy) for gene editing outcomes.
+    - title: Graduate Research Assistant (co-advised by Dr. Jiawei Zhang)
+      institution: Information Fusion and Mining Lab, UC Davis
+      year: May 2023 - Now
       description:
+        - Parameter efficient fine-tuning for vision-language models (e.g., CLIP).
+        - Systematical evaluation of GenAI text-to-video and image-to-video models. Preprint available.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Parameter-Efficient Fine-Tuning for Vision-Language Models
+      year: June 2023 - Now
+      description:
+        - PEFT methods (CoOP, VPT, UPT) on vision-language models; empirical analysis on VTAB-1K. Preliminary report available.
+    - title: ESAM for Enhanced Biomedical Image Segmentation
+      year: June 2023 - June 2024
+      description:
+        - ESAM with box/point prompts; Python framework with GPT-4 for medical recommendations; IoU/DSC on 1500+ images. Preliminary report available.
+    - title: Virulence prediction of foodborne pathogens using ML/DL (Pangenome)
+      year: June 2023 - Now
+      description:
+        - Pangenome pipeline (Snakemake); ML/DL models; 93% virulence accuracy; interpretable CNN with Grad-CAM. Manuscript in preparation.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Programming:</u> Python (NumPy, SciPy, pandas, Matplotlib, Jupyter), C/C++, Java, Spark/Pyspark, HTML, CSS, Perl, R, SQL, Scala, Git, Bash, LaTeX
+    - <u>AI/ML:</u> LLM Prompt Tuning, PEFT, RAG, Langchain, LangGraph, Hugging Face
+    - <u>Software:</u> Linux, AWS, TensorFlow, PyTorch, Keras, OpenCV, Snakemake, scikit-learn, Docker, Kubernetes, DBeaver
+
+- title: Selected Publications
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Pathogenic potential prediction of Vibrio parahaemolyticus... (First-author, under review PNAS)
+        - A Survey of AI-Generated Video Evaluation (Co-author, Arxiv)
+        - AIGVE-Tool: AI-Generated Video Evaluation Toolkit (Co-author, VISAPP)
+    - year: 2024
+      items:
+        - Recent advances in understanding fitness and survival of Vibrio parahaemolyticus (First-author, IJFP)
+
+- title: Peer Review
+  type: list
+  contents:
+    - Frontiers in Microbiology; NeurIPS; ACM TCH; JMI; JBHI; IEEE TNNLS; IEEE TMM; Frontiers in Marine Science; ICLR; IFT FIRST

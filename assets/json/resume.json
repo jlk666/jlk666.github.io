@@ -1,200 +1,216 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jay (Zhuosheng) Liu",
+    "label": "2026 graduate seeking internship/full-time opportunities in DS/MLE",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zsliu@ucdavis.edu",
+    "phone": "",
+    "url": "https://jlk666.github.io",
+    "summary": "PhD in Microbiology (UC Davis), dual Master's in Computer Science and Biotechnology. Research focus: Exploratory Data Science, Applied ML/AI, AI4Science.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Davis",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "zhuosheng-liu",
+        "url": "https://linkedin.com/in/zhuosheng-liu"
+      },
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Capital One",
+      "position": "Data Science PhD Intern",
+      "url": "",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "summary": "Working with the AI Foundation Customer Core team on Graph Representation Learning across multiple modalities of customer data to predict and identify targeted prospective users and prevent potential fraud suspects.",
+      "highlights": [
+        "Investigated graph embedding methods (Cube, Node2Vec, Graph Autoencoder, Variational Graph Autoencoder) to predict future shared accounts among 2M customers, achieving 73% boost of AUC score"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Metagenomi Inc",
+      "position": "Machine Learning Intern",
+      "url": "",
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "summary": "Conducted data preprocessing and feature engineering using highly noisy and high-dimensional data from in-house PostgreSQL database. Assisted in development of ML and deep learning models for CRISPR nuclease indel and gene editing outcome prediction.",
+      "highlights": [
+        "Improved predictive model accuracy; helped reduce operational cost by approximately 40%",
+        "Random Forest Regressor achieving 88.0% cosine similarity for indel profile prediction",
+        "CNN, LSTM achieving 99.5% accuracy for gene editing outcome prediction"
+      ]
+    },
+    {
+      "name": "Information Fusion and Mining Lab, UC Davis",
+      "position": "Graduate Research Assistant (co-advised by Dr. Jiawei Zhang)",
+      "url": "",
+      "startDate": "2023-05",
+      "endDate": "now",
+      "summary": "Advanced solutions on parameter efficient fine-tuning for vision-language models. Systematical evaluation of GenAI text-to-video and image-to-video models.",
+      "highlights": [
+        "Compared parameter efficient fine-tuning methods for vision-language models",
+        "Preprint available"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Davis",
+      "location": "California, USA",
+      "url": "https://ucdavis.edu",
+      "area": "Microbiology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "2020",
+      "endDate": "2026",
+      "score": "3.97/4.0",
+      "courses": []
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "University of California, Davis",
+      "location": "California, USA",
+      "url": "https://ucdavis.edu",
+      "area": "Computer Science",
+      "studyType": "Master's",
+      "startDate": "2023",
+      "endDate": "2025",
+      "score": "3.91/4.0",
+      "courses": ["ECS 271 Advanced Machine Learning (A+)", "ECS 174 Computer Vision (A)", "ECS 289 G Advanced Deep Learning (A+)", "ECS 289 L Advanced Artificial Intelligence (A+)", "ECS 230 Applied Linear Algebra (A)"]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "Columbia University",
+      "location": "New York, USA",
+      "url": "https://columbia.edu",
+      "area": "Biotechnology",
+      "studyType": "Master's",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "3.84/4.0",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python (NumPy, SciPy, pandas, Matplotlib, Jupyter)",
+        "C/C++",
+        "Java",
+        "Spark/Pyspark",
+        "HTML, CSS",
+        "Perl, R, SQL, Scala",
+        "Git, Bash Scripting, LaTeX"
+      ]
+    },
+    {
+      "name": "AI / ML",
+      "level": "",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "LLM Prompt Tuning",
+        "PEFT",
+        "RAG",
+        "Langchain, LangGraph",
+        "Hugging Face"
+      ]
+    },
+    {
+      "name": "Software & Tools",
+      "level": "",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Linux, AWS",
+        "TensorFlow, PyTorch, Keras",
+        "OpenCV",
+        "Snakemake",
+        "scikit-learn",
+        "Docker, Kubernetes",
+        "DBeaver"
       ]
     }
   ],
-  "languages": [
+  "publications": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Pathogenic potential prediction of Vibrio parahaemolyticus by using pangenome data with high performance machine learning algorithms",
+      "publisher": "PNAS",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "First-author. Under review."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "A Survey of AI-Generated Video Evaluation",
+      "publisher": "Arxiv",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Co-author."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark",
+      "publisher": "VISAPP",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Co-author."
+    },
+    {
+      "name": "Recent advances in understanding the fitness and survival mechanisms of Vibrio parahaemolyticus",
+      "publisher": "International Journal of Food Microbiology (IJFP)",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "First-author."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Parameter-Efficient Fine-Tuning for Vision-Language Models",
+      "summary": "Extensive study on PEFT methods applied to vision-language models (e.g., CLIP). Comprehensive empirical analysis across datasets such as VTAB-1K. Investigated CoOP, VPT, UPT and hyperparameter optimization.",
+      "highlights": ["Preliminary report available", "June 2023 – Now"],
+      "startDate": "2023-06",
+      "endDate": "now",
+      "url": ""
+    },
+    {
+      "name": "Utilizing Efficient Segment-Anything Model (ESAM) for Enhanced Biomedical Image Segmentation",
+      "summary": "Implemented ESAM for complex biomedical image segmentation using box and point prompts. Developed Python-based framework with GPT-4 for medical recommendations. Statistical evaluation using IoU and DSC on 1500+ medical images.",
+      "highlights": ["June 2023 – June 2024", "Preliminary report available"],
+      "startDate": "2023-06",
+      "endDate": "2024-06",
+      "url": ""
+    },
+    {
+      "name": "Virulence prediction of pathogenic foodborne pathogens using ML/DL based on Pangenome",
+      "summary": "Constructed pangenome (100,000+ unique gene features) with Snakemake pipeline. Trained ML/DL models (Kmean, GMM, KNN, SVM, RF, Naive Bayes, MLP, CNN); achieved 93% virulence prediction accuracy. Interpretable CNN with Grad-CAM for biological insights.",
+      "highlights": ["Manuscript in preparation", "June 2023 – Now"],
+      "startDate": "2023-06",
+      "endDate": "now",
+      "url": ""
     }
-  ]
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Research Focus",
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "Exploratory Data Science",
+        "Applied ML/AI",
+        "AI4Science"
+      ]
+    }
+  ],
+  "references": []
 }
