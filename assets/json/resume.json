@@ -70,7 +70,7 @@
       "location": "California, USA",
       "url": "https://ucdavis.edu",
       "area": "Microbiology",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy (PhD)",
       "startDate": "2020",
       "endDate": "2026",
       "score": "3.97/4.0",
@@ -81,7 +81,7 @@
       "location": "California, USA",
       "url": "https://ucdavis.edu",
       "area": "Computer Science",
-      "studyType": "Master's",
+      "studyType": "Master of Science (MS)",
       "startDate": "2023",
       "endDate": "2025",
       "score": "3.91/4.0",
@@ -92,7 +92,7 @@
       "location": "New York, USA",
       "url": "https://columbia.edu",
       "area": "Biotechnology",
-      "studyType": "Master's",
+      "studyType": "Master of Arts (MA)",
       "startDate": "2019",
       "endDate": "2020",
       "score": "3.84/4.0",
@@ -213,4 +213,33 @@
     }
   ],
   "references": []
+  ,
+  "peerReview": [
+    {
+      "year": "2025",
+      "items": [
+        "Frontiers in Microbiology (Reviewer)",
+        "Conference on Neural Information Processing Systems (NeurIPS) (Reviewer)",
+        "ACM Transactions on Computing for Healthcare (Reviewer)",
+        "Journal of Medical Imaging (Reviewer)",
+        "IEEE Journal of Biomedical and Health Informatics (Reviewer)",
+        "IEEE Transactions on Neural Networks and Learning Systems (Reviewer)",
+        "IEEE Data Descriptions (Reviewer)",
+        "IEEE Transactions on Multimedia (Reviewer)",
+        "Frontiers in Marine Science (Reviewer)"
+      ]
+    },
+    {
+      "year": "2024",
+      "items": [
+        "International Conference on Learning Representations (ICLR) (Reviewer)"
+      ]
+    },
+    {
+      "year": "2023",
+      "items": [
+        "IFT FIRST Technical Research Paper (Reviewer)"
+      ]
+    }
+  ]
 }

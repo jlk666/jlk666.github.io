@@ -45,12 +45,6 @@
       description:
         - Data preprocessing and feature engineering (PostgreSQL); helped reduce operational cost by ~40%.
         - ML models (KNN, Random Forest, 88% cosine similarity) for indel profiles; CNN/LSTM (99.5% accuracy) for gene editing outcomes.
-    - title: Graduate Research Assistant (co-advised by Dr. Jiawei Zhang)
-      institution: Information Fusion and Mining Lab, UC Davis
-      year: May 2023 - Now
-      description:
-        - Parameter efficient fine-tuning for vision-language models (e.g., CLIP).
-        - Systematical evaluation of GenAI text-to-video and image-to-video models. Preprint available.
 
 - title: Selected Projects
   type: time_table
@@ -87,7 +81,9 @@
       items:
         - Recent advances in understanding fitness and survival of Vibrio parahaemolyticus (First-author, IJFP)
 
-- title: Peer Review
+- title: Peer Review Activity
   type: list
   contents:
-    - Frontiers in Microbiology; NeurIPS; ACM TCH; JMI; JBHI; IEEE TNNLS; IEEE TMM; Frontiers in Marine Science; ICLR; IFT FIRST
+    - <u>2025:</u> Frontiers in Microbiology; Conference on Neural Information Processing Systems (NeurIPS); ACM Transactions on Computing for Healthcare; Journal of Medical Imaging; IEEE Journal of Biomedical and Health Informatics; IEEE Transactions on Neural Networks and Learning Systems; IEEE Data Descriptions; IEEE Transactions on Multimedia; Frontiers in Marine Science.
+    - <u>2024:</u> International Conference on Learning Representations (ICLR).
+    - <u>2023:</u> IFT FIRST Technical Research Paper.
