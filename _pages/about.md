@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bridging Bioinformatics and AI4Science — Innovations at the Intersection of Biology and Data Science
+subtitle: Just a data-driven and coffee-fueled soul in a qualitative world.
 
 profile:
   align: right

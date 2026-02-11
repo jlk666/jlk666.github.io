@@ -62,6 +62,15 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
+
+      <!-- Visitor map (below publications) -->
+      <div class="mt-4 mb-2" style="max-width: 640px;">
+        <script
+          type="text/javascript"
+          id="mapmyvisitors"
+          src="https://mapmyvisitors.com/map.js?d=xP9H0bfUNm__sqyK_5S-DEjmfvtXysZsppV3p1BaBEs&cl=ffffff&w=a"
+        ></script>
+      </div>
     {% endif %}
 
     <!-- Social -->
