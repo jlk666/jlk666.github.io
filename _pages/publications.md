@@ -15,6 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+Publication entries are unavailable in the GitHub Pages build.
 
 </div>
