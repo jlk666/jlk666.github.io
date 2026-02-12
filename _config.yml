@@ -223,7 +223,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - assets/jupyter/   # exclude until `jupyter` is installed (pip install jupyter)
+  - assets/jupyter/ # exclude until `jupyter` is installed (pip install jupyter)
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md

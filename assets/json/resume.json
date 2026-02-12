@@ -58,10 +58,7 @@
       "startDate": "2023-05",
       "endDate": "now",
       "summary": "Advanced solutions on parameter efficient fine-tuning for vision-language models. Systematical evaluation of GenAI text-to-video and image-to-video models.",
-      "highlights": [
-        "Compared parameter efficient fine-tuning methods for vision-language models",
-        "Preprint available"
-      ]
+      "highlights": ["Compared parameter efficient fine-tuning methods for vision-language models", "Preprint available"]
     }
   ],
   "education": [
@@ -85,7 +82,13 @@
       "startDate": "2023",
       "endDate": "2025",
       "score": "3.91/4.0",
-      "courses": ["ECS 271 Advanced Machine Learning (A+)", "ECS 174 Computer Vision (A)", "ECS 289 G Advanced Deep Learning (A+)", "ECS 289 L Advanced Artificial Intelligence (A+)", "ECS 230 Applied Linear Algebra (A)"]
+      "courses": [
+        "ECS 271 Advanced Machine Learning (A+)",
+        "ECS 174 Computer Vision (A)",
+        "ECS 289 G Advanced Deep Learning (A+)",
+        "ECS 289 L Advanced Artificial Intelligence (A+)",
+        "ECS 230 Applied Linear Algebra (A)"
+      ]
     },
     {
       "institution": "Columbia University",
@@ -118,27 +121,13 @@
       "name": "AI / ML",
       "level": "",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "LLM Prompt Tuning",
-        "PEFT",
-        "RAG",
-        "Langchain, LangGraph",
-        "Hugging Face"
-      ]
+      "keywords": ["LLM Prompt Tuning", "PEFT", "RAG", "Langchain, LangGraph", "Hugging Face"]
     },
     {
       "name": "Software & Tools",
       "level": "",
       "icon": "fa-solid fa-wrench",
-      "keywords": [
-        "Linux, AWS",
-        "TensorFlow, PyTorch, Keras",
-        "OpenCV",
-        "Snakemake",
-        "scikit-learn",
-        "Docker, Kubernetes",
-        "DBeaver"
-      ]
+      "keywords": ["Linux, AWS", "TensorFlow, PyTorch, Keras", "OpenCV", "Snakemake", "scikit-learn", "Docker, Kubernetes", "DBeaver"]
     }
   ],
   "publications": [
@@ -205,15 +194,10 @@
     {
       "name": "Research Focus",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Exploratory Data Science",
-        "Applied ML/AI",
-        "AI4Science"
-      ]
+      "keywords": ["Exploratory Data Science", "Applied ML/AI", "AI4Science"]
     }
   ],
-  "references": []
-  ,
+  "references": [],
   "peerReview": [
     {
       "year": "2025",
@@ -231,15 +215,11 @@
     },
     {
       "year": "2024",
-      "items": [
-        "International Conference on Learning Representations (ICLR) (Reviewer)"
-      ]
+      "items": ["International Conference on Learning Representations (ICLR) (Reviewer)"]
     },
     {
       "year": "2023",
-      "items": [
-        "IFT FIRST Technical Research Paper (Reviewer)"
-      ]
+      "items": ["IFT FIRST Technical Research Paper (Reviewer)"]
     }
   ]
 }
