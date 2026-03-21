@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 <p align="center">
-  <img src="{{ '/assets/img/agentcount-logo.png' | relative_url }}" alt="AgentCount Logo" width="600"/>
+  <img src="/assets/img/agentcount-logo.png" alt="AgentCount Logo" width="600"/>
 </p>
 
 AgentCount is a Python project for agar plate colony counting and CFU estimation.  
