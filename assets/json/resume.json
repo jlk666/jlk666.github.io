@@ -131,9 +131,7 @@
     },
     {
       "year": "2025",
-      "items": [
-        "Margrit Mondavi Student Support Fellowship (Mar 2025)"
-      ]
+      "items": ["Margrit Mondavi Student Support Fellowship (Mar 2025)"]
     },
     {
       "year": "2024",
@@ -179,7 +177,6 @@
     }
   ],
 
-
   "volunteer": [],
   "certificates": [],
   "languages": [],
@@ -187,8 +184,7 @@
   "peerReview": [
     {
       "year": "2026",
-      "items": ["KDD AI4Science Workshop (Reviewer)",
-      "International Conference on Learning Representations (ICLR) FM4Science (Reviewer)"]
+      "items": ["KDD AI4Science Workshop (Reviewer)", "International Conference on Learning Representations (ICLR) FM4Science (Reviewer)"]
     },
     {
       "year": "2025",

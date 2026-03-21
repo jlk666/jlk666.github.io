@@ -19,6 +19,7 @@ An emprical study of parameter efficient fine-tuning for adapting CLIP to downst
 - [ ] **Backbone**
 
 ### Environment Setup
+
 All the code is tested on **python 3.9+**, **CUDA 11.7/12.0**
 
 ```bash
@@ -37,6 +38,7 @@ wandb login
 ```
 
 ### Supported Tasks(Dataset) and Backbone
+
 See [prepare_vtab.md](src/data/prompt.md) and [prompt.md](src/data/prompt.md) for prepare and learn the dataset
 | Task | Backbone |
 | :---: | :---: |
@@ -60,13 +62,15 @@ See [prepare_vtab.md](src/data/prompt.md) and [prompt.md](src/data/prompt.md) fo
 | vtab-smallnorb_distance |
 
 ### Supported Strategy
-| Model |
-| :---: |
+
+|                            Model                            |
+| :---------------------------------------------------------: |
 | [CLIP-Adapter](https://github.com/gaopengcuhk/CLIP-Adapter) |
-| [VPT-CLIP-Shallow](https://github.com/KMnP/vpt) |
-| [VPT-CLIP-Deep](https://github.com/KMnP/vpt)|
+|       [VPT-CLIP-Shallow](https://github.com/KMnP/vpt)       |
+|        [VPT-CLIP-Deep](https://github.com/KMnP/vpt)         |
 
 ### Running
+
 ```bash
 python train.py \
       --data "<dataset_name>" \     # Specify the dataset(task) name from table in Supported Tasks
