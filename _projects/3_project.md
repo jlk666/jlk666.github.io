@@ -39,7 +39,7 @@ wandb login
 
 ### Supported Tasks(Dataset) and Backbone
 
-See [prepare_vtab.md](https://github.com/Andy-LZH/peft4clip/blob/main/src/data/prepare_vtab.md) and [prompt.md](https://github.com/Andy-LZH/peft4clip/blob/main/src/data/prompt.md) for dataset preparation and prompt setup.
+See the repository documentation for dataset preparation and prompt setup details.
 | Task | Backbone |
 | :---: | :---: |
 | vtab-caltech101 | ViT-B32 |
