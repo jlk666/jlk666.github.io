@@ -41,6 +41,8 @@ Hello! I'm **Jay** (Zhuosheng) **Liu**, currently in my last year of PhD study, 
     </div>
     <div class="col-5 d-flex justify-content-start align-items-center">
       <img src="{{ '/assets/img/logos/meta.png' | relative_url }}" alt="Meta" class="img-fluid" style="max-height: 200px; object-fit: contain;">
+      
     </div>
   </div>
+  <div class="mt-1 ml-3" style="text-align:right; min-width:100px;">(Incoming)</div>
 </div>
