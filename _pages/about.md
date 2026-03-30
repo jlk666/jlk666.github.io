@@ -13,7 +13,8 @@ profile:
     <p>Data-driven microbial-omics, Applied bioinformatics, Applied AI/ML, Data Mining</p>
 
 news: true
-selected_papers: true
+selected_papers: false
+visitor_map: true
 social: true
 ---
 
