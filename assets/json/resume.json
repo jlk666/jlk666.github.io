@@ -56,7 +56,7 @@
       "institution": "University of California, Davis",
       "location": "Davis, CA, USA",
       "url": "https://ucdavis.edu",
-      "area": "FST-Applied Environmental Microbiology",
+      "area": "Applied Bioinformatics, Applied AI/ML,<br>Data-driven microbial omics",
       "studyType": "Doctor of Philosophy (PhD)",
       "startDate": "2020",
       "endDate": "2026",
@@ -184,7 +184,11 @@
   "peerReview": [
     {
       "year": "2026",
-      "items": ["KDD AI4Science Workshop (Reviewer)", "International Conference on Learning Representations (ICLR) FM4Science (Reviewer)"]
+      "items": [
+        "KDD AI4Science Workshop (Reviewer)",
+        "International Conference on Learning Representations (ICLR) FM4Science (Reviewer)",
+        "ACM Computing Surveys (Reviewer)"
+      ]
     },
     {
       "year": "2025",
