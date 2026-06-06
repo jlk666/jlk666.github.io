@@ -45,5 +45,4 @@ Hello! I'm **Jay** (Zhuosheng) **Liu**, currently in my last year of PhD study, 
       
     </div>
   </div>
-  <div class="mt-1 ml-3" style="text-align:right; min-width:100px;">(Incoming)</div>
 </div>
