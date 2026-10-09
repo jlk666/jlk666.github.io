@@ -81,6 +81,10 @@ layout: default
             {% assign section_title = data[0] | capitalize %}
             {% if data[0] == 'peerReview' %}
               {% assign section_title = 'Peer Review Activity' %}
+            {% elsif data[0] == 'work' %}
+              {% assign section_title = 'Industry Experience' %}
+            {% elsif data[0] == 'editorial' %}
+              {% assign section_title = 'Editorial Appointment' %}
             {% endif %}
             <h3 class="card-title font-weight-medium">{{ section_title }}</h3>
             <div>
@@ -90,6 +94,8 @@ layout: default
                 {% when 'education' %}
                   {% include resume/education.liquid %}
                 {% when 'work' %}
+                  {% include resume/work.liquid %}
+                {% when 'editorial' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}

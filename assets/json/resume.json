@@ -1,11 +1,11 @@
 {
   "basics": {
-    "Who I am": "Jay (Zhuosheng) Liu",
-    "Current Status": "2026 graduate seeking internship/full-time opportunities in DS/MLE",
+    "Who I am": "Jay (Zhuosheng) Liu, Ph.D.",
+    "Current Status": "Ph.D. Intern, Machine Learning at Meta Platforms",
     "image": "",
-    "email": "zsliu@ucdavis.edu",
+    "email": "zsliujay@gmail.com",
     "phone": "",
-    "summary": "PhD with research in applied bioinformatics and applied AI/ML for science (UC Davis), dual Master's in Computer Science and Biotechnology.",
+    "summary": "Researcher combining domain knowledge in microbial food safety with bioinformatics and applied AI/ML. Work spans interpretable pathogen genomics, protein representation learning, generative-AI evaluation, and large-scale recommendation systems. Experience connects experimental science, model development, and evaluation in research and production settings.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,32 +23,54 @@
         "network": "Google Scholar",
         "url": "https://scholar.google.com"
       }
-    ]
+    ],
+    "Academic Email": "zsliu@ucdavis.edu",
+    "url": "https://jlk666.github.io",
+    "Research Focus": "Applied AI/ML | AI for Science | Bioinformatics | Microbial Food Safety"
   },
   "work": [
     {
-      "name": "Capital One",
-      "position": "Data Science PhD Intern",
+      "name": "Meta Platforms",
+      "position": "Ph.D. Intern, Machine Learning",
       "url": "",
+      "startDate": "2026-06",
+      "endDate": "",
+      "summary": "Developed LLM-based music and creator recommendation systems for content creation.",
+      "highlights": [
+        "Built pipelines for semantic tokenization, supervised fine-tuning, preference optimization, and online evaluation.",
+        "Designed Atomic Creator Tokens for creator recommendation."
+      ]
+    },
+    {
+      "name": "Capital One",
+      "position": "Ph.D. Data Science Intern, AI Foundation",
+      "url": "",
+      "location": "McLean, VA",
       "startDate": "2025-06",
       "endDate": "2025-08",
-      "summary": "Working with the AI Foundation Customer Core team on Graph Representation Learning across multiple modalities of customer data to predict and identify targeted prospective users and prevent potential fraud suspects.",
-      "highlights": [
-        "Investigated graph embedding methods (Cube, Node2Vec, Graph Autoencoder, Variational Graph Autoencoder) to predict future shared accounts among 2M customers, achieving 73% boost of AUC score"
-      ]
+      "summary": "Investigated graph representation learning using data from approximately two million customers to predict shared accounts and support customer modeling and fraud-risk analysis.",
+      "highlights": []
     },
     {
       "name": "Metagenomi",
       "position": "Machine Learning Intern",
       "url": "",
+      "location": "Emeryville, CA",
       "startDate": "2024-06",
       "endDate": "2024-09",
-      "summary": "Conducted data preprocessing and feature engineering using highly noisy and high-dimensional data from in-house PostgreSQL database. Assisted in development of ML and deep learning models for CRISPR nuclease indel and gene editing outcome prediction.",
-      "highlights": [
-        "Improved predictive model accuracy; helped reduce operational cost by approximately 40%",
-        "Random Forest Regressor achieving 88.0% cosine similarity for indel profile prediction",
-        "CNN, LSTM achieving 99.5% accuracy for gene editing outcome prediction"
-      ]
+      "summary": "Developed preprocessing, feature engineering, and ML/deep-learning models for CRISPR nuclease indel profiles and gene-editing outcomes using internal screening data.",
+      "highlights": []
+    }
+  ],
+  "editorial": [
+    {
+      "name": "Frontiers in Microbiology — Microbiome Data Science",
+      "position": "Review Editor",
+      "url": "",
+      "startDate": "2026-09",
+      "endDate": "",
+      "summary": "Appointed to the section editorial board to review manuscripts in computational, statistical, and informatics approaches to microbiome research.",
+      "highlights": []
     }
   ],
   "education": [
@@ -56,12 +78,12 @@
       "institution": "University of California, Davis",
       "location": "Davis, CA, USA",
       "url": "https://ucdavis.edu",
-      "area": "Applied Bioinformatics, Applied AI/ML,<br>Data-driven microbial omics",
+      "area": "Microbial food safety, bioinformatics, and machine learning",
       "studyType": "Doctor of Philosophy (PhD)",
       "startDate": "2020",
       "endDate": "2026",
       "score": "3.97/4.0",
-      "courses": []
+      "courses": ["Advisor: Luxin Wang"]
     },
     {
       "institution": "University of California, Davis",
@@ -80,7 +102,6 @@
         "ECS 230 Applied Linear Algebra (A)"
       ]
     },
-
     {
       "institution": "Columbia University",
       "location": "New York, NY, USA",
@@ -91,34 +112,55 @@
       "endDate": "2020",
       "score": "3.84/4.0",
       "courses": []
+    },
+    {
+      "institution": "University of California, Davis",
+      "location": "Davis, CA, USA",
+      "url": "https://ucdavis.edu",
+      "area": "Food Science and Technology",
+      "studyType": "Bachelor’s degree",
+      "endDate": "2019",
+      "score": "3.59/4.00; major GPA: 3.62/4.00",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Programming",
-      "level": "",
-      "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python (NumPy, SciPy, pandas, Matplotlib, Jupyter)",
-        "C/C++",
-        "Java",
-        "Spark/Pyspark",
-        "HTML, CSS",
-        "Perl, R, SQL, Scala",
-        "Git, Bash Scripting, LaTeX"
-      ]
-    },
-    {
       "name": "AI / ML",
       "level": "",
       "icon": "fa-solid fa-robot",
-      "keywords": ["LLM Prompt Tuning", "PEFT", "RAG", "Langchain, LangGraph", "Hugging Face"]
+      "keywords": [
+        "PyTorch, TensorFlow, scikit-learn, Hugging Face",
+        "LLM fine-tuning, LoRA, PEFT, DPO, GRPO",
+        "Multimodal representation learning, graph learning",
+        "Generative recommendation, model evaluation"
+      ]
     },
     {
-      "name": "Software & Tools",
+      "name": "Programming & Systems",
       "level": "",
-      "icon": "fa-solid fa-wrench",
-      "keywords": ["Linux, AWS", "TensorFlow, PyTorch, Keras", "OpenCV", "Snakemake", "scikit-learn", "Docker, Kubernetes", "DBeaver"]
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python, R, C/C++, Java, SQL, Scala, Perl, Bash",
+        "NumPy, pandas, Spark/PySpark, PostgreSQL",
+        "Linux, Git, Docker, AWS, FSDP, vLLM"
+      ]
+    },
+    {
+      "name": "Bioinformatics",
+      "level": "",
+      "icon": "fa-solid fa-dna",
+      "keywords": [
+        "Snakemake workflows, Biopython",
+        "RNA-seq, 16S rRNA sequencing, whole-genome and pangenome analysis",
+        "ESM2 protein embeddings, UMAP/t-SNE, AlphaFold2 structure prediction"
+      ]
+    },
+    {
+      "name": "Experimental Methods",
+      "level": "",
+      "icon": "fa-solid fa-flask",
+      "keywords": ["NGS library preparation, qPCR, PCR", "Microbial culture, pathogen challenge studies, food-safety experiments"]
     }
   ],
   "awards": [
@@ -176,7 +218,6 @@
       ]
     }
   ],
-
   "volunteer": [],
   "certificates": [],
   "languages": [],
@@ -185,15 +226,20 @@
     {
       "year": "2026",
       "items": [
-        "KDD AI4Science Workshop (Reviewer)",
-        "International Conference on Learning Representations (ICLR) FM4Science (Reviewer)",
-        "ACM Computing Surveys (Reviewer)"
+        "Frontiers in Microbiology (Reviewer)",
+        "Journal of Food Science (Reviewer)",
+        "ACM Computing Surveys (Reviewer)",
+        "ACM Transactions on Sensor Networks (Reviewer)",
+        "ICLR Workshop on Foundation Models for Science (FM4Science) (Reviewer; six completed reviews)",
+        "Conference on Neural Information Processing Systems (NeurIPS) (Reviewer)",
+        "KDD AI4Science (Reviewer)",
+        "ACM CAIS AgentSkills Workshop (Reviewer)"
       ]
     },
     {
       "year": "2025",
       "items": [
-        "Conference on Neural Information Processing Systems (NeurIPS) (Reviewer)",
+        "NeurIPS workshops: Imagenomics and AI4DS (Reviewer)",
         "ACM Transactions on Computing for Healthcare (Reviewer)",
         "Journal of Medical Imaging (Reviewer)",
         "IEEE Journal of Biomedical and Health Informatics (Reviewer)",
@@ -206,11 +252,20 @@
     },
     {
       "year": "2024",
-      "items": ["International Conference on Learning Representations (ICLR) (Reviewer)"]
+      "items": ["ICLR-associated reviewing"]
     },
     {
       "year": "2023",
       "items": ["IFT FIRST Technical Research Paper (Reviewer)"]
+    },
+    {
+      "year": "Additional Service",
+      "items": [
+        "KDD 5th Workshop on Ethical Artificial Intelligence (Reviewer)",
+        "KDD 5th Workshop on Uncertainty Reasoning and Quantification in Decision Making (Reviewer)",
+        "IEEE Cloud Summit (Reviewer)",
+        "International Conference on Artificial Neural Networks (Reviewer)"
+      ]
     }
   ]
 }
