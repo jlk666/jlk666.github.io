@@ -78,12 +78,12 @@
       "institution": "University of California, Davis",
       "location": "Davis, CA, USA",
       "url": "https://ucdavis.edu",
-      "area": "Microbial food safety, bioinformatics, and machine learning",
+      "area": "Applied Bioinformatics, Applied AI/ML, and Data Mining",
       "studyType": "Doctor of Philosophy (PhD)",
       "startDate": "2020",
       "endDate": "2026",
       "score": "3.97/4.0",
-      "courses": ["Advisor: Luxin Wang"]
+      "courses": ["Advisor: Luxin Wang; co-advised by C. Titus Brown and Jiawei Zhang"]
     },
     {
       "institution": "University of California, Davis",
@@ -117,8 +117,7 @@
       "institution": "University of California, Davis",
       "location": "Davis, CA, USA",
       "url": "https://ucdavis.edu",
-      "area": "Food Science and Technology",
-      "studyType": "Bachelor’s degree",
+      "studyType": "Bachelor of Science (BS)",
       "endDate": "2019",
       "score": "3.59/4.00; major GPA: 3.62/4.00",
       "courses": []
