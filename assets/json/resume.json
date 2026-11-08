@@ -5,7 +5,7 @@
     "image": "",
     "email": "zsliujay@gmail.com",
     "phone": "",
-    "summary": "Researcher combining domain knowledge in microbial food safety with bioinformatics and applied AI/ML. Work spans interpretable pathogen genomics, protein representation learning, generative-AI evaluation, and large-scale recommendation systems. Experience connects experimental science, model development, and evaluation in research and production settings.",
+    "summary": "Researcher combining bioinformatics and applied AI/ML. Work spans interpretable pathogen genomics, protein representation learning, generative-AI evaluation, and large-scale recommendation systems. Experience connects experimental science, model development, and evaluation in research and production settings.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -26,7 +26,7 @@
     ],
     "Academic Email": "zsliu@ucdavis.edu",
     "url": "https://jlk666.github.io",
-    "Research Focus": "Applied AI/ML | AI for Science | Bioinformatics | Microbial Food Safety"
+    "Research Focus": "Applied AI/ML | AI for Science | Bioinformatics | Data Mining"
   },
   "work": [
     {
@@ -159,7 +159,7 @@
       "name": "Experimental Methods",
       "level": "",
       "icon": "fa-solid fa-flask",
-      "keywords": ["NGS library preparation, qPCR, PCR", "Microbial culture, pathogen challenge studies, food-safety experiments"]
+      "keywords": ["NGS library preparation, qPCR, PCR", "Microbial culture, pathogen challenge studies"]
     }
   ],
   "awards": [
